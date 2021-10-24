@@ -39,3 +39,6 @@ Treat your test suite with as much respect as you would your live code, as it ca
 * Documentation: [Mocha](https://mochajs.org/)
 * Documentation: [Node.js - assertion testing](https://nodejs.org/api/assert.html)
 * Codecademy: [Characteristics of a Good Test](https://www.codecademy.com/articles/tdd-u1-good-test)
+
+### Chai
+* Documentation: [Chai Assertion Library](https://www.chaijs.com/guide/)
