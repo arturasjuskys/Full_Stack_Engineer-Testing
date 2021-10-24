@@ -1,0 +1,15 @@
+{
+  "name": "mocha-testing-rooster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  },
+  "scripts": {
+    "test": "mocha test/**/*_test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
